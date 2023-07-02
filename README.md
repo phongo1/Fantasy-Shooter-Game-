@@ -2,7 +2,7 @@
 2D Fantasy Shooter Game developed with pygame and UVAGE (UVA game engine)
 
 **Game Screens:
-1)Functional scrolling character selection menu
+1)Functional scrolling character selection menu 
 <img width="500" alt="image" src="https://github.com/phongo1/Fantasy-Shooter-Game-/assets/121993449/a31d40df-8335-4ecd-97c7-5aa36ef79b9a">
 
 2) In game map area
