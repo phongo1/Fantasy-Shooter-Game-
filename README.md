@@ -8,7 +8,7 @@
 <img width="500" alt="image" src="https://github.com/phongo1/Fantasy-Shooter-Game-/assets/121993449/a31d40df-8335-4ecd-97c7-5aa36ef79b9a">
 
 2) In game map area
-3) 
+
 <img width="500" alt="image" src="https://github.com/phongo1/Fantasy-Shooter-Game-/assets/121993449/f2068385-5cb0-4735-a105-8fa11f4f8790">
 
 
@@ -16,7 +16,7 @@
 
 <img width="500" alt="image" src="https://github.com/phongo1/Fantasy-Shooter-Game-/assets/121993449/e6cdeb22-0776-42b1-b264-7975f18409de">
 
-Enemies:
+**Enemies:
 
 regular enemies
 
@@ -34,6 +34,6 @@ BOSS enemies
 
 ![metalboss](https://github.com/phongo1/Fantasy-Shooter-Game-/assets/121993449/de9db230-db58-44ba-8664-f6cd4303496d)
 
-Gameplay demo:
+**Gameplay demo:
 
 [https://youtu.be/FLIzubXNmyo](https://youtu.be/FLIzubXNmyo)
